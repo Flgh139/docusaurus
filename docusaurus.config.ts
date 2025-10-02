@@ -75,9 +75,9 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'My Site',
+      title: '醫院 AI 與自動化文獻',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -85,11 +85,33 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: '文獻筆記',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          type: 'dropdown',
+          label: '快速導航',
+          position: 'left',
+          items: [
+            {
+              label: 'AIS 30篇經典論文',
+              to: '/docs/ais-classic-30',
+            },
+            {
+              label: '醫院自動化',
+              to: '/docs/papers/paper-01-hospital-medication',
+            },
+            {
+              label: 'AI 診斷與分析',
+              to: '/docs/papers/paper-04-chinese-nlp',
+            },
+            {
+              label: '流程優化',
+              to: '/docs/papers/paper-07-surgical-instrument',
+            },
+          ],
+        },
+        {
+          href: 'https://github.com/Flgh139/docusaurus',
           label: 'GitHub',
           position: 'right',
         },
