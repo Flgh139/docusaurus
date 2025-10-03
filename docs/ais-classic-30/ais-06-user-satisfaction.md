@@ -447,8 +447,8 @@ sidebar_position: 6
 ### 相關 AIS 經典論文
 
 - [Davis et al. (1989) - TAM](./ais-02-tam) - 技術接受模型（滿意度的前置因素）
-- [DeLone & McLean (1992) - IS Success Model](./ais-11-is-success) - 整合滿意度的成功模型
-- [Bhattacherjee (2001) - IS Continuance](./ais-10-is-continuance) - 滿意度對持續使用的影響
+- DeLone & McLean (1992) - IS Success Model - 整合滿意度的成功模型
+- Bhattacherjee (2001) - IS Continuance - 滿意度對持續使用的影響
 
 ### 滿意度測量經典
 
