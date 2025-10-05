@@ -122,6 +122,11 @@
 
 ## 技術細節
 
+### 專案位置
+- **本地路徑**: `/Users/youta/Library/Mobile Documents/com~apple~CloudDocs/medical-ai-docs`
+- **雲端備份**: iCloud Drive（自動同步）
+- **舊位置**: `/Users/youta/Desktop/medical-ai-docs`（已於 2025-10-05 遷移）
+
 ### Repository
 - GitHub: https://github.com/Flgh139/docusaurus
 - 網站: https://Flgh139.github.io/docusaurus/
