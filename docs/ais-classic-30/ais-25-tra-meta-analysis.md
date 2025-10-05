@@ -918,4 +918,4 @@ vs 傳統做法（僅訓練後提醒）：
 
 🤖 Generated with [Claude Code](https://claude.com/claude-code)
 
-Co-Authored-By: Claude <noreply@anthropic.com>
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
